@@ -1,8 +1,22 @@
-# React + Vite
+# Tugas Individu 4 Pemrograman Web Lanjut
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Program ini dibangun menggunakan [Node.js](https://nodejs.org/en/docs) dan [React.js](https://react.dev/).
 
-Currently, two official plugins are available:
+## Cara Menjalankan Program
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Sebelum menjalankan program, pastikan terlebih dahulu sudah menginstall 'Node.js' dan 'Git' pada perangkat (Perlu diingat, Git dan Github tidaklah sama!)
+
+### Langkah Awal Menjalankan Program
+
+Program ini dijalankan pada mode development, jalankan program menggunakan perintah berikut:
+
+```
+npm start
+```
+
+Tunggu sampai perangkat selesai menjalankan perintah, setelah itu ctrl + click pada bagian 'Local', maka secara automatis akan langsung diarahkan ke web browser.
+
+## Pengembang Program
+
+Muhammad Duta Faturrahman [F4turrahman](https://github.com/F4turrahman/)
+muhammad.120140065@student.itera.ac.id (student)
